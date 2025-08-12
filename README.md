@@ -73,15 +73,15 @@ http://127.0.0.1:5000/
 ![result](image-1.png)
 
 ###  Use Cases
- Social Media Marketing for ad targeting
+ - Social Media Marketing for ad targeting
 
- Customer segmentation
+ - Customer segmentation
 
- ML binary classification examples
+ - ML binary classification examples
 
 ###  Future Enhancements
-Add probability score for click likelihood
+ - Add probability score for click likelihood
 
-Include more features like location & device type
+ - Include more features like location & device type
 
-Deploy online via Heroku or Render
+ - Deploy online via Heroku or Render
